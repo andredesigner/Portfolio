@@ -119,6 +119,7 @@ const processSteps = [
           <p>Designer com mais de 10 anos de experiência atuando em ambientes de agência, startups e empresas de tecnologia.</p>
           <p>Trabalho na criação de produtos digitais, websites e sistemas, participando do processo do discovery à entrega e colaborando com times multidisciplinares.</p>
           <p>Tenho formação em design gráfico, com especialização em UX, o que me permite tomar decisões consistentes entre experiência, identidade visual e interface.</p>
+          <a class="link-accent" href="https://www.linkedin.com/in/andreoliveiradesigner/" target="_blank">Meu Linkedin</a>
         </div>
       </section>
     </main>
